@@ -50,7 +50,7 @@ return {
         },
 
         on_attach = function(bufnr)
-            vim.lsp.inlay_hint.enable(true, bufnr)
+            --vim.lsp.inlay_hint.enable(true, bufnr)
             vim.lsp.codelens.refresh()
         end,
 

@@ -110,3 +110,9 @@ source $ZDOTDIR/config/aliases
 /usr/sbin/fastfetch
 
 . "$HOME/.local/bin/env"
+
+export DOTNET_ROOT=$HOME/dotnet
+export PATH=$PATH:$HOME/dotnet/tools
+export PATH=$PATH:$HOME/dotnet
+export PATH=$PATH:$HOME/csharp-language-server
+export PATH=$PATH:$HOME/discord-rpc-lsp

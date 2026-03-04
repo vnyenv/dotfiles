@@ -8,7 +8,7 @@ return {
             editor = {
                 client = 'neovim',
                 tooltip = 'DOYOUFEELTHEWEIGHTOFYOURSINSDOESITHURTDOESGODSJUDGEMENTFILLYOUWITHGUILTTORMENT',
-                icon = 'https://media.tenor.com/xtzPsgR0YqcAAAAi/lain.gif',
+                icon = 'https://media.tenor.com/sAsel0NXnZYAAAAi/raccoon-spinning.gif',
             },
             display = {
                 theme = 'atom',

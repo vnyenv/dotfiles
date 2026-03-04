@@ -1,0 +1,12 @@
+[language-server.csharp]
+command = "csharp-language-server"
+
+[language-server.discord-rpc]
+command = "discord-rpc-lsp"
+
+[[language]]
+name = "c-sharp"
+language-servers = [
+  "csharp",
+  "discord-rpc"
+]

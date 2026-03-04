@@ -1,6 +1,8 @@
 alias nv="prime-run nvim"
 alias e="prime-run emacs"
 
+alias hx="helix"
+
 alias kitty="prime-run kitty"
 
 alias nvidia-settings="prime-run nvidia-settings"
